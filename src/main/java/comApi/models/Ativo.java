@@ -63,9 +63,7 @@ public class Ativo {
     }
 
     public enum Alocacao {
-        Cetrel, Braskem, Camaçari,
-        @JsonProperty("Polo Petroquímico")
-        Polo_Petroquímico, Outro
+        Cetrel, Braskem, Embasa, Aliter, Outro
     }
 
     public enum Status {
