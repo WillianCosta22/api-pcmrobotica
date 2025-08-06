@@ -1,9 +1,9 @@
-package com.pcm.api.controllers;
+package comApi.controllers;
 
-import com.pcm.api.models.Ativo;
-import com.pcm.api.models.OrdemServico;
-import com.pcm.api.services.AtivoService;
-import com.pcm.api.services.OrdemServicoService;
+import comApi.models.Ativo;
+import comApi.models.OrdemServico;
+import comApi.services.AtivoService;
+import comApi.services.OrdemServicoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

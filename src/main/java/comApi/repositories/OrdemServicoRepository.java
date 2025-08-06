@@ -1,6 +1,6 @@
-package com.pcm.api.repositories;
+package comApi.repositories;
 
-import com.pcm.api.models.OrdemServico;
+import comApi.models.OrdemServico;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

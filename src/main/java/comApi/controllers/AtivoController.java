@@ -1,7 +1,7 @@
-package com.pcm.api.controllers;
+package comApi.controllers;
 
-import com.pcm.api.models.Ativo;
-import com.pcm.api.services.AtivoService;
+import comApi.models.Ativo;
+import comApi.services.AtivoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.pcm.api.models;
+package comApi.models;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import javax.persistence.*;

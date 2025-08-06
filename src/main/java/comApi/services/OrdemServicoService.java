@@ -1,7 +1,7 @@
-package com.pcm.api.services;
+package comApi.services;
 
-import com.pcm.api.models.OrdemServico;
-import com.pcm.api.repositories.OrdemServicoRepository;
+import comApi.models.OrdemServico;
+import comApi.repositories.OrdemServicoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.time.LocalDateTime;

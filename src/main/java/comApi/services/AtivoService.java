@@ -1,7 +1,7 @@
-package com.pcm.api.services;
+package comApi.services;
 
-import com.pcm.api.models.Ativo;
-import com.pcm.api.repositories.AtivoRepository;
+import comApi.models.Ativo;
+import comApi.repositories.AtivoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.time.LocalDate;
